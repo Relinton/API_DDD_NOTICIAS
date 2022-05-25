@@ -1,0 +1,15 @@
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\bin\Debug\net5.0\ProjetoNoticias.Entidades.deps.json
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\bin\Debug\net5.0\ProjetoNoticias.Entidades.runtimeconfig.json
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\bin\Debug\net5.0\ProjetoNoticias.Entidades.runtimeconfig.dev.json
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\bin\Debug\net5.0\ProjetoNoticias.Entidades.dll
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\bin\Debug\net5.0\ref\ProjetoNoticias.Entidades.dll
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\bin\Debug\net5.0\ProjetoNoticias.Entidades.pdb
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\obj\Debug\net5.0\ProjetoNoticias.Entidades.csproj.AssemblyReference.cache
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\obj\Debug\net5.0\ProjetoNoticias.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\obj\Debug\net5.0\ProjetoNoticias.Entidades.AssemblyInfoInputs.cache
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\obj\Debug\net5.0\ProjetoNoticias.Entidades.AssemblyInfo.cs
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\obj\Debug\net5.0\ProjetoNoticias.Entidades.csproj.CoreCompileInputs.cache
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\obj\Debug\net5.0\ProjetoNoticias.Entidades.dll
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\obj\Debug\net5.0\ref\ProjetoNoticias.Entidades.dll
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\obj\Debug\net5.0\ProjetoNoticias.Entidades.pdb
+D:\Projetos Relinton\AspNetCore\API_DDD_NOTICIAS\ProjetoNoticias.Entidades\obj\Debug\net5.0\ProjetoNoticias.Entidades.genruntimeconfig.cache
